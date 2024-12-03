@@ -31,7 +31,7 @@ autodoc_mock_imports = [
     # "retico-core @ git+https://github.com/articulab/retico-core.git",
 ]
 
-import testdoc
+# import testdoc
 import numpy  # mandatory import to avoid readthedocs build crash
 
 # -- Project information -----------------------------------------------------
