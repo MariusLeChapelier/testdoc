@@ -31,12 +31,12 @@ autodoc_mock_imports = [
     # "retico-core @ git+https://github.com/articulab/retico-core.git",
 ]
 
-# import simple_retico_agent
+import testdoc
 import numpy  # mandatory import to avoid readthedocs build crash
 
 # -- Project information -----------------------------------------------------
 
-project = "simple-retico-agent"
+project = "testdoc"
 copyright = "2024, Marius Le Chapelier"
 author = "Marius Le Chapelier"
 
