@@ -19,7 +19,7 @@ Submodules
    :undoc-members:
    :show-inheritance:
 
-   .. automodule:: test_docs.file2
+.. automodule:: test_docs.file2
    :members:
    :undoc-members:
    :show-inheritance:
