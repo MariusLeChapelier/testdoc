@@ -6,6 +6,7 @@ lala
 """
 
 import retico_core
+import test_docs
 from test_docs.utils import device_definition
 
 
