@@ -32,7 +32,7 @@ autodoc_mock_imports = [
 ]
 
 # import testdoc
-import numpy  # mandatory import to avoid readthedocs build crash
+# import numpy  # mandatory import to avoid readthedocs build crash
 
 # -- Project information -----------------------------------------------------
 
