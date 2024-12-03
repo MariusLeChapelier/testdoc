@@ -1,5 +1,5 @@
 """
-FILE4 HEADER
+FILE5 HEADER
 ============
 
 lala
@@ -7,14 +7,15 @@ lala
 
 import retico_core
 import test_docs
-from test_docs.utils import device_definition
+from test_docs import utils
+from utils import device_definition
 
 
-class File4(retico_core.AbstractModule):
-    """FILE4 CLASS DOCSTRING"""
+class File5(retico_core.AbstractModule):
+    """FILE5 CLASS DOCSTRING"""
 
     def f1(
         self,
     ):
-        """FILE4 FUNCTION DOCSTRING"""
+        """FILE5 FUNCTION DOCSTRING"""
         return device_definition()
