@@ -26,7 +26,7 @@ autodoc_mock_imports = [
     "llama_cpp",
     "TTS",
     "pyaudio",
-    # "numpy",
+    "numpy",
     "retico_core",
     # "retico-core @ git+https://github.com/articulab/retico-core.git",
 ]
