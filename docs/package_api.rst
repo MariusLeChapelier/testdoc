@@ -9,12 +9,10 @@ test\_docs package
 Submodules
 ----------
 
-
 .. automodule:: test_docs.simple_llm
    :members:
    :undoc-members:
    :show-inheritance:
-
 
 .. automodule:: test_docs.file1
    :members:
