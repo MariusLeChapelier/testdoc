@@ -53,8 +53,3 @@ Submodules
    :members:
    :undoc-members:
    :show-inheritance:
-
-.. automodule:: test_docs.file9
-   :members:
-   :undoc-members:
-   :show-inheritance:

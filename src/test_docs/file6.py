@@ -6,8 +6,7 @@ lala
 """
 
 import retico_core
-import test_docs
-import test_docs.file1
+from test_docs import file1
 
 
 class File6(retico_core.AbstractModule):
@@ -17,4 +16,4 @@ class File6(retico_core.AbstractModule):
         self,
     ):
         """FILE6 FUNCTION DOCSTRING"""
-        return test_docs.file1.File1()
+        return file1.File1()

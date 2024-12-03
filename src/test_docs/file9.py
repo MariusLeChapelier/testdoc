@@ -6,9 +6,7 @@ lala
 """
 
 import retico_core
-import test_docs
-from test_docs import file1
-from file1 import File1
+from test_docs.file1 import File1
 
 
 class File9(retico_core.AbstractModule):
