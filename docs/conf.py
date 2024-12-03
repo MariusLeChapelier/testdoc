@@ -32,6 +32,7 @@ autodoc_mock_imports = [
     # "retico-core @ git+https://github.com/articulab/retico-core.git",
 ]
 
+import retico_core
 import test_docs
 
 # autoapi_dirs = ["../src"]
