@@ -7,7 +7,7 @@ Welcome to testdocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   test_docs
+   package_api
 
 
 Indices and tables
