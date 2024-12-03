@@ -28,3 +28,13 @@ Submodules
    :members:
    :undoc-members:
    :show-inheritance:
+
+.. automodule:: test_docs.file4
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: test_docs.file5
+   :members:
+   :undoc-members:
+   :show-inheritance:
