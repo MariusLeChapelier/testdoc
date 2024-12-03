@@ -7,8 +7,6 @@ lala
 
 import retico_core
 import test_docs
-from test_docs import utils
-from utils import device_definition
 
 
 class File5(retico_core.AbstractModule):
@@ -18,4 +16,4 @@ class File5(retico_core.AbstractModule):
         self,
     ):
         """FILE5 FUNCTION DOCSTRING"""
-        return device_definition()
+        return test_docs.file1.File1()
