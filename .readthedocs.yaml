@@ -13,7 +13,7 @@ build:
       python: "3.11"
    jobs:
       post_create_environment:
-         - pip install --no-deps retico-core @ git+https://github.com/articulab/retico-core.git
+         - pip install --no-deps "retico-core @ git+https://github.com/articulab/retico-core.git"
 
 sphinx:
    configuration: docs/conf.py
