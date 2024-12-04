@@ -27,6 +27,7 @@ autodoc_mock_imports = [
     "TTS",
     "pyaudio",
     "numpy",
+    "structlog",  # added with installing retico-core with --no-deps
     # "retico_core",
     # "test_docs",
     # "retico-core @ git+https://github.com/articulab/retico-core.git",
